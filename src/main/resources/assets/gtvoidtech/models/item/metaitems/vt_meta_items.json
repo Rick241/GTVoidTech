@@ -1,0 +1,9 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "gtvoidtech:items/metaitems/void_core"
+  },
+  "overrides": [
+    { "predicate": { "gtvoidtech:meta": 0 }, "model": "gtvoidtech:items/metaitems/void_core" }
+  ]
+}

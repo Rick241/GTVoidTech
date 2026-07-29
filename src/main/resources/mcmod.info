@@ -1,0 +1,12 @@
+[{
+    "modid": "${modid}",
+    "name": "${modname}",
+    "description": "End game content continue the uv+ tiers and add a new machines (bedrock miner and etc.) and all tech around of void dust.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "logoFile": "",
+    "url": "",
+    "authorList": [RickTechLord],
+    "credits": "",
+    "dependencies": [gregtech]
+}]

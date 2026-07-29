@@ -1,0 +1,5 @@
+#Item names
+metaitem.void_core.name = Void core
+
+#Creative tab mod name
+itemGroup.gtvoidtech=GTVoidTech
