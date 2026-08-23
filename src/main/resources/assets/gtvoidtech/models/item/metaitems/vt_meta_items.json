@@ -4,6 +4,9 @@
     "layer0": "gtvoidtech:items/metaitems/void_core"
   },
   "overrides": [
-    { "predicate": { "gtvoidtech:meta": 0 }, "model": "gtvoidtech:items/metaitems/void_core" }
+    {"predicate": {"gtvoidtech:meta": 0}, "model": "gtvoidtech:items/metaitems/void_core" },
+    {"predicate": {"gtvoidtech:meta": 1}, "model": "gtvoidtech:items/metaitems/macerated_bedrock_debris"},
+    {"predicate": {"gtvoidtech:meta": 2}, "model": "gtvoidtech:items/metaitems/bedrock_debris"},
+    {"predicate": {"gtvoidtech:meta": 3}, "model": "gtvoidtech:items/metaitems/carbid_tungsten_grinder"}
   ]
 }

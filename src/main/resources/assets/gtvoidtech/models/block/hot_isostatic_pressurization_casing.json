@@ -1,0 +1,6 @@
+{
+  "parent": "gtvoidtech:block/hot_isostatic_pressurization_casing",
+  "textures": {
+    "all": "gtvoidtech:blocks/casings/hot_isostatic_pressurization_casing"
+  }
+}

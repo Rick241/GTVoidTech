@@ -1,0 +1,40 @@
+{
+  "variants": {
+    "active=false,variant=graphite_coil": {
+      "model": "minecraft:cube_all",
+      "textures": {
+        "particle": "gtvoidtech:blocks/graphite_coil_side",
+        "down": "gtvoidtech:blocks/graphite_coil_side",
+        "up": "gtvoidtech:blocks/graphite_coil_side",
+        "north": "gtvoidtech:blocks/graphite_coil",
+        "south": "gtvoidtech:blocks/graphite_coil",
+        "east": "gtvoidtech:blocks/graphite_coil",
+        "west": "gtvoidtech:blocks/graphite_coil"
+      }
+    },
+    "active=true,variant=graphite_coil": {
+      "model": "minecraft:cube_all",
+      "textures": {
+        "particle": "gtvoidtech:blocks/graphite_coil_active_side",
+        "down": "gtvoidtech:blocks/graphite_coil_active_side",
+        "up": "gtvoidtech:blocks/graphite_coil_active_side",
+        "north": "gtvoidtech:blocks/graphite_coil_active",
+        "south": "gtvoidtech:blocks/graphite_coil_active",
+        "east": "gtvoidtech:blocks/graphite_coil_active",
+        "west": "gtvoidtech:blocks/graphite_coil_active"
+      }
+    },
+    "inventory": {
+      "model": "minecraft:cube_all",
+      "textures": {
+        "particle": "gtvoidtech:blocks/graphite_coil_side",
+        "down": "gtvoidtech:blocks/graphite_coil_side",
+        "up": "gtvoidtech:blocks/graphite_coil_side",
+        "north": "gtvoidtech:blocks/graphite_coil",
+        "south": "gtvoidtech:blocks/graphite_coil",
+        "east": "gtvoidtech:blocks/graphite_coil",
+        "west": "gtvoidtech:blocks/graphite_coil"
+      }
+    }
+  }
+}

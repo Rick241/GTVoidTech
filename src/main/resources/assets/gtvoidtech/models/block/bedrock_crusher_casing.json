@@ -1,0 +1,6 @@
+{
+  "parent": "gtvoidtech:blocks/casings/bedrock_crusher_casing",
+  "textures": {
+    "all": "gtvoidtech:blocks/casings/bedrock_crusher_casing"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "gtvoidtech:blocks/casings/air_collector",
+  "textures": {
+    "all": "gtvoidtech:blocks/casings/air_collector"
+  }
+}

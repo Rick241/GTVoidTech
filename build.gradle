@@ -401,6 +401,9 @@ tasks.named('processIdeaSettings').configure {
 
 // Repositories
 
+
+
+
 // Allow unsafe repos but warn
 repositories.configureEach { repo ->
     if (repo instanceof UrlArtifactRepository) {
@@ -478,8 +481,7 @@ repositories {
     mavenLocal() // Must be last for caching to work
 }
 
-
-// Dependencies
+//Dependencies
 
 // Configure dependency configurations
 configurations {

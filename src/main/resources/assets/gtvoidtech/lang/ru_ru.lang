@@ -1,5 +1,55 @@
 #Названия предметов
 metaitem.void_core.name=Пустотное ядро
+metaitem.dustVda.name=VDA (Сплав пустотной пыли)
+metaitem.macerated_bedrock_debris.name=Дробленая куча коренной породы
+metaitem.bedrock_debris.name=Обломки коренной породы
+metaitem.carbid_tungsten_grinder.name=Дробящий диск из карбида вольфрама
+
+#Названия материалов
+gtvoidtech.material.vda=VDA Сплав
+gtvoidtech.material.bedrock_dust=Коренная порода
+
+#Жидкости
+gtvoidtech.material.hight_pressure_air=Воздух высокого давления
+gtvoidtech.material.hsla_steel_100=HSLA Сталь
+gtvoidtech.material.aluminum_oxide=Оксид алюминия
+gtvoidtech.material.fluid_carbon=Жидкий углерод
+gtvoidtech.material.maraging_steel_300=Марагеновая сталь 300
+gtvoidtech.material.hipressure_argon=Аргон высокого давления
+
+
 
 #Названия вкладки мода в креативном меню
-itemGroup.gtvoidtech=GTVoidTech
+itemGroup.GT: Void Tech=GT: Void Tech
+
+# Обшивки
+tile.multiblock_casing.vda_casing.name=VDA Корпус
+tile.multiblock_casing.plasma_injector.name=Корпус Инжектора плазмы
+tile.multiblock_casing.bedrock_crusher_casing.name=Корпус Крушителя коренной породы
+tile.multiblock_casing.bedrock_collector_casing.name=Корпус Пустотного коллектора
+tile.multiblock_casing.hot_isostatic_pressurization_casing.name=Высокотемпратурный изотостатический корпус
+tile.multiblock_casing.air_collector.name=Воздухозаборник
+tile.uniq_casint.frame.name=Каркас
+tile.multiblock_casing.maraging_steel.name=Сверх прочный каркас Марагентовой стали
+tile.multiblock_casing.hastelloy_x_casing.name=Каркас Хастеллой X
+tile.multiblock_casing.alumina_isolating_casing.name=Устойчивый изоляционный каркас
+
+#Уникальные блоки
+tile.uniq_casing.hydraulic_press.name=Блок Нагнетателя давления
+tile.uniq_casing.press_pipe.name=Труба Нагнетателя давления
+
+
+# Названия мультиблоков
+gtvoidtech.machine.bedrock_crusher.name=Крушитель коренной породы
+gtvoidtech.machine.air_compressor.name=Нагнетатель давления
+gtvoidtech.machine.pressure_booster.name=Нагнетатель давления
+gtvoidtech.machine.thermal_isostatic_furnace.name=Изостатическая печь
+
+#Названия всех рецептов в машинах
+recipemap.bedrock_crusher.name=Рецепты Крушителя коренной породы
+
+
+#Описание блоков
+gtvoidtech.machine.bedrock_crusher.description1=Ломает Коренную породу под собой. §cВНИМАНИЕ!§f После того как вся коренная порода сломается, работа прекратится! Дальше вам требуется структуру разобрать и на её месте установить Коллектор пустотной пыли.
+gtvoidtech.machine.bedrock_crusher.description2=§eПринимает§r только:§r §cZMP§r
+gtvoidtech.machine.bedrock_crusher.description3=Не принимает параллели!

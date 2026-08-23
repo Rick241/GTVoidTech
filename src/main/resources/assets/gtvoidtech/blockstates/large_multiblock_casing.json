@@ -1,0 +1,53 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "minecraft:cube_all",
+    "textures": {
+      "all": "gtvoidtech:blocks/rendering_error"
+    }
+  },
+  "variants": {
+    "variant": {
+      "bedrock_crusher_casing": {
+        "textures": {
+          "all": "gtvoidtech:blocks/bedrock_crusher_casing"
+        }
+      },
+      "bedrock_collector_casing": {
+        "textures": {
+          "all": "gtvoidtech:blocks/bedrock_collector_casing"
+        }
+      },
+      "hot_isostatic_pressurization_casing": {
+        "textures": {
+          "all": "gtvoidtech:blocks/hot_isostatic_pressurization_casing"
+        }
+      },
+      "air_collector": {
+        "textures": {
+          "all": "gtvoidtech:blocks/air_collector"
+        }
+      },
+      "hsla_steel_casing": {
+        "textures": {
+          "all": "gtvoidtech:blocks/hsla_steel_casing"
+        }
+      },
+      "maraging_steel": {
+        "textures": {
+          "all": "gtvoidtech:blocks/maraging_steel"
+        }
+      },
+      "hastelloy_x_casing": {
+        "textures": {
+          "all": "gtvoidtech:blocks/hastelloy_x_casing"
+        }
+      },
+      "alumina_isolating_casing": {
+        "textures": {
+          "all": "gtvoidtech:blocks/alumina_isolating_casing"
+        }
+      }
+    }
+  }
+}

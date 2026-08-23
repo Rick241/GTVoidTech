@@ -1,0 +1,6 @@
+{
+  "parent": "gtvoidtech:blocks/large_multiblock_casing",
+  "textures": {
+    "all": "gtvoidtech:blocks/large_multiblock_casing"
+  }
+}

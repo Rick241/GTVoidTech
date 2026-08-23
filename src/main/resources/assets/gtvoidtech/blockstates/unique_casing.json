@@ -1,0 +1,26 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "minecraft:cube_all"
+  },
+  "variants": {
+    "variant": {
+      "hydraulic_press": {
+        "model": "minecraft:cube_bottom_top",
+        "textures": {
+          "top": "gtvoidtech:blocks/casings/hydraulic_press/top",
+          "side": "gtvoidtech:blocks/casings/hydraulic_press/side",
+          "bottom": "gtvoidtech:blocks/casings/hydraulic_press/bottom"
+        }
+      },
+      "press_pipe": {
+        "model": "minecraft:cube_bottom_top",
+        "textures": {
+          "top": "gtvoidtech:blocks/casings/press_pipe/top",
+          "side": "gtvoidtech:blocks/casings/press_pipe/side",
+          "bottom": "gtvoidtech:blocks/casings/press_pipe/bottom"
+        }
+      }
+    }
+  }
+}

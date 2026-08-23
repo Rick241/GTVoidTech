@@ -1,5 +1,9 @@
-#Item names
-metaitem.void_core.name = Void core
+# Blocks
+tile.basic_casing.void_dust_casing.name=VDX-A Casing
 
-#Creative tab mod name
+# Items
+metaitem.Vda.name=VDX-A Dust
+craftitems.void_core.name=Void Core
+
+# Creative Tab
 itemGroup.gtvoidtech=GTVoidTech
